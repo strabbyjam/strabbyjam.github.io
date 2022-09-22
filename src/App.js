@@ -4,7 +4,7 @@ import './sass/main.css';
 function App() {
   return (
     <div className="App">
-      <h1 class='hello'>Hello</h1>
+      <h1>Hello, I'm Lucas</h1>
     </div>
   );
 }
